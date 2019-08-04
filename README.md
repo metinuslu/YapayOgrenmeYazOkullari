@@ -3,14 +3,14 @@
 Yapay Öğrenme Yaz Okulu materyallerini içermektedir. (Machine Learning Summer School includes materials.)
 
 # 2016 - ODTU Yapay Öğrenme ve Bilgi İşlemede Yeni Teknikler
-![](https://github.com/metinuslu/YapayOgrenmeYazOkulu/blob/master/Others/2016-ODTUYOBIYTYO.jpg)
+![](./Others/2016-ODTUYOBIYTYO.jpg)
 
 **Web Site:** [http://obayo.ogam.metu.edu.tr/](http://obayo.ogam.metu.edu.tr/)
 
 **Sunumlar:** [http://obayo.ogam.metu.edu.tr/sunumlar](http://obayo.ogam.metu.edu.tr/sunumlar)
 
 # 2017 - Hacettepe Üniversitesi Bozkırda Yapay Öğrenme Yaz Okulu
-![](https://github.com/metinuslu/YapayOgrenmeYazOkulu/blob/master/Others/2017-HUBYOYO.jpg)
+![](./Others/2017-HUBYOYO.jpg)
 
 **Web Site:**  [http://byoyo2017.cs.hacettepe.edu.tr/](http://byoyo2017.cs.hacettepe.edu.tr/)
 
@@ -24,7 +24,7 @@ Yapay Öğrenme Yaz Okulu materyallerini içermektedir. (Machine Learning Summer
 **Youtube:** [https://www.youtube.com/playlist?list=PLMGWwuh6-mEcTODbE22Q1KATHeZYAQTTg](https://www.youtube.com/playlist?list=PLMGWwuh6-mEcTODbE22Q1KATHeZYAQTTg)
 
 # 2019 - Koç Üniversitesi Kuzeybatıda Yapay Öğrenme Yaz Okulu
-![](https://raw.githubusercontent.com/metinuslu/YapayOgrenmeYazOkulu/master/Others/2019-KUKBYOYO2019.jpg)
+![](./Others/2019-KUKBYOYO2019.jpg)
 **Web Site:**  [http://midas.ku.edu.tr/kbyoyo19/](http://midas.ku.edu.tr/kbyoyo19/)
 
 **Twitter:**  [https://twitter.com/kbyoyo19](https://twitter.com/kbyoyo19)
