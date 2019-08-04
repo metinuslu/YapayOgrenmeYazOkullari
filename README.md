@@ -21,7 +21,7 @@ Yapay Öğrenme Yaz Okulu materyallerini içermektedir. (Machine Learning Summer
 
 **Web Site:**  [http://byoyo2017.cs.hacettepe.edu.tr/](http://byoyo2017.cs.hacettepe.edu.tr/)
 
-**Mail:** [mailto:byoyo2017@cs.hacettepe.edu.tr](byoyo2017@cs.hacettepe.edu.tr)
+**Mail:** byoyo2017@cs.hacettepe.edu.tr
 
 **Sunumlar:** [https://www.dropbox.com/sh/87g3rc4dduk4evs/AACWc9dRKjfTZKJSAnrVUFlXa?dl=0](https://www.dropbox.com/sh/87g3rc4dduk4evs/AACWc9dRKjfTZKJSAnrVUFlXa?dl=0)
 ## 2018 - Boğaziçi Üniversitesi Boğaz'da Yapay Öğrenme İsmail Arı Yaz Okulu
@@ -30,7 +30,7 @@ Yapay Öğrenme Yaz Okulu materyallerini içermektedir. (Machine Learning Summer
 
 **Web Site:** [http://byoyo.cmpe.boun.edu.tr/](http://byoyo.cmpe.boun.edu.tr/)
 
-**Mail:** [mailto:byoyo2017@cs.hacettepe.edu.tr](byoyo2017@cs.hacettepe.edu.tr)
+**Mail:** byoyo2017@cs.hacettepe.edu.tr
 
 **Youtube:** [https://www.youtube.com/playlist?list=PLMGWwuh6-mEcTODbE22Q1KATHeZYAQTTg](https://www.youtube.com/playlist?list=PLMGWwuh6-mEcTODbE22Q1KATHeZYAQTTg)
 
@@ -38,7 +38,7 @@ Yapay Öğrenme Yaz Okulu materyallerini içermektedir. (Machine Learning Summer
 ![](./Others/2019-KUKBYOYO2019.jpg)
 **Web Site:**  [http://midas.ku.edu.tr/kbyoyo19/](http://midas.ku.edu.tr/kbyoyo19/)
 
-**Mail:** [mailto:kbyoyo19@ku.edu.tr](kbyoyo19@ku.edu.tr)
+**Mail:** kbyoyo19@ku.edu.tr
 
 **Twitter:**  [https://twitter.com/kbyoyo19](https://twitter.com/kbyoyo19)
 
