@@ -4,7 +4,7 @@ Yapay Öğrenme Yaz Okulu materyallerini içermektedir. (Machine Learning Summer
 
 | No | Üniversite                                                        | Yıl  | Web Site                               |
 |----|-------------------------------------------------------------------|------|----------------------------------------|
-| 1  | ODTU Yapay Öğrenme ve Bilgi İşlemede Yeni Teknikler               | 2016 | [http://obayo.ogam.metu.edu.tr/](http://obayo.ogam.metu.edu.tr/)         |
+| 1  | [https://github.com/metinuslu/YapayOgrenmeYazOkullari/tree/master/2016-ODTUYapayOgrenmeveBilgi%C4%B0slemedeYeniTeknikler](ODTU Yapay Öğrenme ve Bilgi İşlemede Yeni Teknikler               | 2016) | [http://obayo.ogam.metu.edu.tr/](http://obayo.ogam.metu.edu.tr/)         |
 | 2  | Hacettepe Üniversitesi Bozkırda Yapay Öğrenme Yaz Okulu           | 2017 | [http://byoyo2017.cs.hacettepe.edu.tr/](http://byoyo2017.cs.hacettepe.edu.tr/) |
 | 3  | Boğaziçi Üniversitesi Boğaz'da Yapay Öğrenme İsmail Arı Yaz Okulu | 2018 | [http://byoyo.cmpe.boun.edu.tr/](http://byoyo.cmpe.boun.edu.tr/)         |
 | 4  | Koç Üniversitesi Kuzeybatıda Yapay Öğrenme Yaz Okulu              | 2019 | [http://midas.ku.edu.tr/kbyoyo19/](http://midas.ku.edu.tr/kbyoyo19/)       |
