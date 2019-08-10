@@ -14,6 +14,11 @@ Yapay Öğrenme Yaz Okulu materyallerini içermektedir. (Machine Learning Summer
 
 **Web Site:** [http://obayo.ogam.metu.edu.tr/](http://obayo.ogam.metu.edu.tr/)
 
+**Youtube:** [https://www.youtube.com/playlist?list=PLl0r773xkI7QXViLFK9kqPmDYTYgR_HuM](Ogam OBAYO HQ)
+
+**Youtube:** [https://www.youtube.com/playlist?list=PLl0r773xkI7STxi5c2YsSHAxzROJc-Ulk](Ogam OBAYO LQ)
+
+
 ## 2017 - Hacettepe Üniversitesi Bozkırda Yapay Öğrenme Yaz Okulu
 ![](./Others/2017-HUBYOYO.jpg)
 
